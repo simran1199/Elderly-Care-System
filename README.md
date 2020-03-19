@@ -1,0 +1,2 @@
+# Elderly-Care-System
+Developing an Android application for health monitoring of a dependent person with data collection using firebase which monitored the heart beat rate,body temperature and fall detection using sensors embedded on the wearable device interfaced with the app for the dependent person.  Used GSM-GPS interfaced with Arduino for geo-fencing to alarm the supervisor if the defined boundary is crossed using the app.
